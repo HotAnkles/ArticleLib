@@ -1,0 +1,17 @@
+{
+  "name": "articlelib",
+  "version": "1.0.0",
+  "description": "first attempt at designing any sort of program or application 3/1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.9",
+    "jquery": "^2.2.1",
+    "request": "^2.69.0"
+  }
+}
